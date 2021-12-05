@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "First Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, commodi temporibus. Aliquam nihil repudiandae soluta dolores odit dolorem quod optio, impedit, amet quam tenetur nesciunt modi magnam labore iusto? Aliquid.",
+      "author": "Thomas Pesquet",
+      "id": 1
+    },
+    {
+      "title": "Spider-Man",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, commodi temporibus. Aliquam nihil repudiandae soluta dolores odit dolorem quod optio, impedit, amet quam tenetur nesciunt modi magnam labore iusto? Aliquid.",
+      "author": "James Blunt",
+      "id": 2
+    }
+  ]
+}

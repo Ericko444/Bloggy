@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "L' impact du Covid-19 sur les marchés à Madagascar",
+      "body": "Les mesures de confinement et de distanciation sociale rendues nécessaires pour lutter contre la pandémie de Covid-19 menacent de mettre un coup d’arrêt à la croissance mondiale, encore fragilisée par la dernière crise économique et financière de 2008. L’importance et le rythme des effets sur la croissance du PIB de chaque pays dépendront de nombreux facteurs parmi lesquels le degré d’intégration et de dépendance aux chaines d’approvisionnement mondiales, la structure de l’économie et de la production, ou l’ampleur et l’efficacité des mesures de soutien aux économies.",
+      "author": "ralay",
+      "id": 1
+    },
+    {
+      "title": "Problèmes scolaires à Madagascar",
+      "body": "Résultats de l'étude à Madagascar :\n\nLe pourcentage d'enfants non scolarisés par niveau :\n\nPréscolaire (moins de 5 ans) : 40% représentant entre 285 000 et 316 000 enfants.\n\nPrimaire : 22% à 27% représentant entre 751.000 et 921.000 enfants\n\nSecondaire inférieur : 30% à 40% représentant entre 741 000 et 1 million d'enfants\n\nSecondaire supérieur : plus de 60%, soit près de 1,4 million d'adolescents.\n\nLes questions liées aux entrées tardives, aux redoublements et aux abandons au niveau primaire sont parmi les problèmes les plus importants du système éducatif malgache. Les enfants inscrits à l'école primaire sont plus exposés au risque d'abandon, car ils n'ont que 33 % de chances d'atteindre la dernière année. Cependant, lorsque les élèves atteignent l'école secondaire inférieure, ils ont 73% de chances d'atteindre la dernière année, et ceux qui atteignent l'école secondaire supérieure ont 87% de chances d'atteindre la dernière année.\n\nTraduit avec www.DeepL.com/Translator (version gratuite)",
+      "author": "marc",
+      "id": 2
+    }
+  ]
+}
